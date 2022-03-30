@@ -1,35 +1,54 @@
-.classh1{   
-    background-color: rgb(255, 0, 0);
-    color: white;
-    font-size: 40px;
+.classh1{
+    color: aliceblue;
+    background-color: rgb(150, 84, 33);
+    font-size: 3rem;
     text-align: center;
 }
-
-.f
-.i 
-.homepage{
-    
-    font-family: Helvetica, "Times New Roman", sans-serif;
-    font-size: 29px;
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
 }
 
-.f{
-    background-color: #000000;
-    color: rgb(255, 255, 255)
+.para {
+  font-size: 22px;
 }
 
-.i{
-    background-color: yellow;
+.small-para {
+  font-size: 14px;
+}
+#confirm-button{
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
 }
 
-.homepage{
-    background-color: rgb(255, 212, 212);
-    color: rgb(255, 255, 255);
+.text .child {
+  color: red;
+  font-size: 14px;
+}
+div.text {
+  color: green;
+  font-size: 22px;
 }
 
+.font{
+    font-family: "Tahoma", sans-serif;
+}
 
-
-
-
-
-
+a:visited{
+    background-color: rgb(73, 119, 146);
+}
+#p{
+    background-color: rgb(150, 84, 33);
+    color: white;
+    font-size: 18px;
+}
+.background{
+ background-color: rgba(187, 169, 136, 0.782);
+}
