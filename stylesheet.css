@@ -1,18 +1,13 @@
 .classh1{
-    color: aliceblue;
-    background-color: rgb(150, 84, 33);
     font-size: 3rem;
-    text-align: center;
-}
+    text-align: center;}
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
 }
-
 .para {
   font-size: 22px;
 }
-
 .small-para {
   font-size: 14px;
 }
@@ -21,13 +16,11 @@
   color: white;
   font-weight: bold;
 } 
-
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
-
 .text .child {
   color: red;
   font-size: 14px;
@@ -36,19 +29,30 @@ div.text {
   color: green;
   font-size: 22px;
 }
-
+.classh1,
+.box1,
 .font{
-    font-family: "Tahoma", sans-serif;
-}
-
-a:visited{
-    background-color: rgb(73, 119, 146);
+  font-family: "Tahoma", sans-serif;
+  padding:6px;
+  margin: 3px;
+  border: 5px solid rgb(90, 18, 64);
+  background-color: rgb(220, 86, 158);
+  color: aliceblue;
 }
 #p{
-    background-color: rgb(150, 84, 33);
+    background-color:rgb(220, 86, 158);
     color: white;
-    font-size: 18px;
+    font-size: 25px;
+    
 }
 .background{
- background-color: rgba(187, 169, 136, 0.782);
+ background-color:
+  rgba(187, 136, 172, 0.782);
+}
+.box1 {
+  height: 100px;
+  width: 100px;
+  font-size: 18px;
+  background-color: rgb(220, 86, 158);
+  color: white;
 }
